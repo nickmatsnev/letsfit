@@ -1,1 +1,96 @@
-<mxfile host="app.diagrams.net" modified="2020-12-13T19:08:51.642Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/87.0.4280.88 Safari/537.36 Edg/87.0.664.60" version="14.0.1" etag="QVXIimJcNoj2zr_tZUmy" type="github"><diagram id="ji2-6nPunBLCa_lmAv0m">UzV2zq1wL0osyPDNT0nNUTV2VTV2LsrPL4GwciucU3NyVI0MMlNUjV1UjYwMgFjVyA2HrCFY1qAgsSg1rwSLBiADYTaQg2Y1AA==</diagram></mxfile>
+<mxfile host="app.diagrams.net" modified="2020-12-13T20:00:10.461Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/87.0.4280.88 Safari/537.36 Edg/87.0.664.60" etag="t6N1GmWe3L2A1-u5GRsa" version="14.0.1" type="github">
+  <diagram id="ji2-6nPunBLCa_lmAv0m" name="Page-1">
+    <mxGraphModel dx="901" dy="543" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="HKYdp-EmrICE6OFnBikD-1" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="35" y="40" width="140" height="210" as="geometry" />
+        </mxCell>
+        <mxCell id="HKYdp-EmrICE6OFnBikD-9" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.75;exitDx=0;exitDy=0;entryX=0.008;entryY=0.052;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="HKYdp-EmrICE6OFnBikD-2" target="HKYdp-EmrICE6OFnBikD-6">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="190" y="210" />
+              <mxPoint x="268" y="210" />
+              <mxPoint x="268" y="51" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="HKYdp-EmrICE6OFnBikD-15" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="HKYdp-EmrICE6OFnBikD-2">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="300" y="399.9999999999999" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="HKYdp-EmrICE6OFnBikD-2" value="&lt;p style=&quot;line-height: 160%&quot;&gt;&lt;span&gt;input &quot;nickname&quot;&lt;/span&gt;&lt;/p&gt;&lt;p style=&quot;line-height: 160%&quot;&gt;input &quot;password&quot;&lt;/p&gt;&lt;p style=&quot;line-height: 160%&quot;&gt;button &quot;log in&quot;&lt;/p&gt;&lt;p style=&quot;line-height: 160%&quot;&gt;&lt;span&gt;button &quot;create account&quot;&lt;/span&gt;&lt;/p&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="20" y="110" width="170" height="140" as="geometry" />
+        </mxCell>
+        <mxCell id="HKYdp-EmrICE6OFnBikD-5" value="&lt;b&gt;&lt;font style=&quot;font-size: 14px&quot;&gt;LoginPage&lt;/font&gt;&lt;/b&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="85" y="40" width="40" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="HKYdp-EmrICE6OFnBikD-6" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="345" y="40" width="140" height="160" as="geometry" />
+        </mxCell>
+        <mxCell id="HKYdp-EmrICE6OFnBikD-14" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="HKYdp-EmrICE6OFnBikD-7" target="HKYdp-EmrICE6OFnBikD-11">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="500" y="80" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="HKYdp-EmrICE6OFnBikD-16" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.75;exitDx=0;exitDy=0;" edge="1" parent="1" source="HKYdp-EmrICE6OFnBikD-7">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="300" y="399.9999999999999" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="HKYdp-EmrICE6OFnBikD-7" value="&lt;p style=&quot;line-height: 160%&quot;&gt;&lt;span&gt;input &quot;nickname&quot;&lt;/span&gt;&lt;/p&gt;&lt;p style=&quot;line-height: 160%&quot;&gt;input &quot;password&quot;&lt;/p&gt;&lt;p style=&quot;line-height: 160%&quot;&gt;input &quot;repeat password&quot;&lt;/p&gt;&lt;p style=&quot;line-height: 160%&quot;&gt;button &quot;sign up&quot;&lt;/p&gt;&lt;p style=&quot;line-height: 160%&quot;&gt;&lt;span&gt;&amp;nbsp;&lt;/span&gt;&lt;/p&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="330" y="75" width="170" height="140" as="geometry" />
+        </mxCell>
+        <mxCell id="HKYdp-EmrICE6OFnBikD-8" value="&lt;b&gt;&lt;font style=&quot;font-size: 14px&quot;&gt;AuthPage&lt;/font&gt;&lt;/b&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="395" y="40" width="40" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="HKYdp-EmrICE6OFnBikD-11" value="" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="620" y="10" width="180" height="140" as="geometry" />
+        </mxCell>
+        <mxCell id="HKYdp-EmrICE6OFnBikD-13" value="ALERT:&lt;br&gt;this nickname is already in the database!" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="640" y="40" width="145" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="HKYdp-EmrICE6OFnBikD-17" value="" style="whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
+          <mxGeometry x="220" y="400" width="300" height="300" as="geometry" />
+        </mxCell>
+        <mxCell id="HKYdp-EmrICE6OFnBikD-18" value="&lt;h1&gt;RatingPage&lt;/h1&gt;&lt;p&gt;&lt;br&gt;&lt;/p&gt;" style="text;html=1;strokeColor=none;fillColor=none;spacing=5;spacingTop=-20;whiteSpace=wrap;overflow=hidden;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="220" y="400" width="150" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="HKYdp-EmrICE6OFnBikD-20" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="220" y="440" width="150" height="260" as="geometry" />
+        </mxCell>
+        <mxCell id="HKYdp-EmrICE6OFnBikD-21" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="370" y="440" width="150" height="260" as="geometry" />
+        </mxCell>
+        <mxCell id="HKYdp-EmrICE6OFnBikD-22" value="&lt;b&gt;Players rate&lt;/b&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="220" y="440" width="150" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="HKYdp-EmrICE6OFnBikD-23" value="&lt;b&gt;Games Rate&lt;/b&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="370" y="440" width="150" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="HKYdp-EmrICE6OFnBikD-27" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="220" y="480" width="80" height="220" as="geometry" />
+        </mxCell>
+        <mxCell id="HKYdp-EmrICE6OFnBikD-28" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="370" y="480" width="80" height="220" as="geometry" />
+        </mxCell>
+        <mxCell id="HKYdp-EmrICE6OFnBikD-30" value="Username&lt;br&gt;(btn to profilePage)" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="220" y="480" width="80" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="HKYdp-EmrICE6OFnBikD-41" value="Rate" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="320" y="490" width="40" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="HKYdp-EmrICE6OFnBikD-42" value="Rate" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="460" y="490" width="40" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="HKYdp-EmrICE6OFnBikD-43" value="Name&lt;br&gt;(click leads to the game)" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="370" y="480" width="80" height="110" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
