@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2020-12-13T20:00:10.461Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/87.0.4280.88 Safari/537.36 Edg/87.0.664.60" etag="t6N1GmWe3L2A1-u5GRsa" version="14.0.1" type="github">
+<mxfile host="app.diagrams.net" modified="2020-12-13T20:04:33.978Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/87.0.4280.88 Safari/537.36 Edg/87.0.664.60" etag="FpAcneevjXj2JulejL3F" version="14.0.1" type="github">
   <diagram id="ji2-6nPunBLCa_lmAv0m" name="Page-1">
     <mxGraphModel dx="901" dy="543" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -57,9 +57,6 @@
         <mxCell id="HKYdp-EmrICE6OFnBikD-17" value="" style="whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
           <mxGeometry x="220" y="400" width="300" height="300" as="geometry" />
         </mxCell>
-        <mxCell id="HKYdp-EmrICE6OFnBikD-18" value="&lt;h1&gt;RatingPage&lt;/h1&gt;&lt;p&gt;&lt;br&gt;&lt;/p&gt;" style="text;html=1;strokeColor=none;fillColor=none;spacing=5;spacingTop=-20;whiteSpace=wrap;overflow=hidden;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="220" y="400" width="150" height="40" as="geometry" />
-        </mxCell>
         <mxCell id="HKYdp-EmrICE6OFnBikD-20" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="220" y="440" width="150" height="260" as="geometry" />
         </mxCell>
@@ -88,7 +85,38 @@
           <mxGeometry x="460" y="490" width="40" height="20" as="geometry" />
         </mxCell>
         <mxCell id="HKYdp-EmrICE6OFnBikD-43" value="Name&lt;br&gt;(click leads to the game)" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="370" y="480" width="80" height="110" as="geometry" />
+          <mxGeometry x="370" y="510" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="HKYdp-EmrICE6OFnBikD-49" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="290" y="400" width="80" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="HKYdp-EmrICE6OFnBikD-50" value="&lt;b&gt;&lt;font style=&quot;font-size: 17px&quot;&gt;Rating&lt;/font&gt;&lt;/b&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="240" y="410" width="40" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="HKYdp-EmrICE6OFnBikD-52" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="HKYdp-EmrICE6OFnBikD-51">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="250" y="400" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="180" y="410" />
+              <mxPoint x="180" y="350" />
+              <mxPoint x="250" y="350" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="HKYdp-EmrICE6OFnBikD-51" value="Active" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="100" y="400" width="40" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="HKYdp-EmrICE6OFnBikD-53" value="Create Game" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="290" y="410" width="80" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="HKYdp-EmrICE6OFnBikD-54" value="Profile" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="440" y="410" width="80" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="HKYdp-EmrICE6OFnBikD-55" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="370" y="400" width="80" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="HKYdp-EmrICE6OFnBikD-57" value="Find" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="370" y="410" width="80" height="20" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
