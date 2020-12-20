@@ -9,6 +9,7 @@
       <root url="jar://$PROJECT_DIR$/../javafx-sdk-15.0.1/lib/javafx.media.jar!/" />
       <root url="jar://$PROJECT_DIR$/../javafx-sdk-15.0.1/lib/javafx.swing.jar!/" />
       <root url="jar://$PROJECT_DIR$/../javafx-sdk-15.0.1/lib/javafx.web.jar!/" />
+      <root url="jar://$PROJECT_DIR$/../database/mysql-connector-java-8.0.22.jar!/" />
     </CLASSES>
     <JAVADOC />
     <SOURCES />
