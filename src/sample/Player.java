@@ -1,5 +1,10 @@
 package sample;
 
+import java.sql.Connection;
+import java.sql.DriverManager;
+import java.sql.ResultSet;
+import java.sql.Statement;
+
 public class Player {
     public String username;
     private String password;
@@ -21,7 +26,9 @@ public class Player {
     public String getUsername() {
         return username;
     }
-
+    public String getPassword() {
+        return password;
+    }
     public int getScore() {
         return score;
     }

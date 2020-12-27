@@ -19,4 +19,5 @@ class WhatIsJbdc {   // Save as "JdbcSelectTest.java" (JDK 7 and above)
             System.out.println(e);
         }
     }
+
 }
